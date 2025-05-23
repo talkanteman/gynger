@@ -27,7 +27,7 @@ A full-stack application for managing and deduplicating SaaS bills from CSV file
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/talkanteman/gynger.git
 cd saas-bills-manager
 ```
 
